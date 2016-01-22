@@ -1,1 +1,1 @@
-github "hamcrest/OCHamcrest" >= 5.1.0
+github "hamcrest/OCHamcrest" ~> 5.1.0
